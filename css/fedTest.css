@@ -1,0 +1,193 @@
+body {
+    background-color:#0E1414;
+    margin-left: 12px;
+    margin-right: 12px;
+    
+}; 
+
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+.rectangle {
+	max-height: 600px;
+	max-width: 384px;
+    background-color: #F0F0F0;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.rectangle-copy-3 {
+	max-height: 290px;
+	max-width: 384px;
+	background-color: #F0F0F0;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.rectangle-copy-2 {
+	max-height: 290px;
+	max-width: 384px;
+	background-color: #F0F0F0;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.line {
+    box-sizing: border-box;
+    height: 1px;
+    max-width: 384px;
+    border: 1px solid #FFFFFF;
+    text-align:left;
+    margin-left:0;
+}
+
+.answer-your-body-s-n {
+    min-height: 39px;
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 26px;
+    font-weight: 300;
+    letter-spacing: 0.5px;
+    line-height: 36px;
+    
+}
+
+.the-way-ingredients {
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+    
+}            
+
+.be-mindful {
+    min-height: 28px;
+    color: #CF1430;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    padding-top: 25px;
+}
+
+.sourcing-local-or-or {
+    height: 92px;
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+    padding-top: 11px;
+}
+
+.image-text {
+    min-height: 600px;
+    max-width: 1200px;
+    margin-top: 186px;
+}
+
+.card-cta {
+    min-height: 643px;
+    max-width: 1200px;
+    margin-top: 225px;
+}   
+
+.all-the-latest-from {
+    min-height: 59px;
+    max-width: 730px;
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 42px;
+    font-weight: 300;
+    letter-spacing: 0.81px;
+    line-height: 57px;
+    text-align: center;
+    margin: auto;
+}
+
+.summer-lunch-menu-by {
+    min-height: 38px;
+    max-width: 384px;
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+}
+
+.aeg-ambassador-mark {
+    min-height: 87px;
+    max-width: 384px;    
+    color: #C2C2C2;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+}
+
+.read-more {
+    height: 29px;
+    width: 94px;
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 30px;
+    cursor: pointer;
+}
+
+.a-traditional-christ {
+    min-height: 38px;
+    max-width: 384px;
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+}
+
+.one-of-australia-s-b {
+    min-height: 87px;
+    max-width: 384px;   
+    color: #C2C2C2;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+}
+
+.taking-taste-further {
+	min-height: 38px;
+    max-width: 384px;
+	color: #FFFFFF;
+	font-family: "Open Sans";
+	font-size: 18px;
+	font-weight: 600;
+	line-height: 30px;
+}
+
+.this-exclusive-cookb {
+	min-height: 115px;
+    max-width: 384px;
+	color: #C2C2C2;
+	font-family: "Open Sans";
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 28px;
+}
+
+.bottom-border {
+    border-bottom: 4px solid #CF1430;
+}
+
+.top-marg-block2 {
+    margin-top: 60px;
+}
+
+.top-marg-block2-text {
+    margin-top: 27px;
+}
